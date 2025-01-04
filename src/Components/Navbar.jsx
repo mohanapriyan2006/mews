@@ -13,7 +13,10 @@ const Navbar = () => {
         <div>
             <nav className="navbar nav-color" data-bs-theme="dark">
                 <div className="container-fluid">
-                    <a className="navbar-brand" onClick={() => navigate('/')}><span className="badge rounded-pill logo-color fs-5 pb-2">
+                    <a className="navbar-brand" onClick={() => {
+                        navigate('/')
+                        setCategory('General')
+                    }}><span className="badge rounded-pill logo-color fs-5 pb-2">
                         <img src={icon} alt="icon" style={{ height: '15px', width: '15px' ,marginRight:'5px'}} />
                         m<i>ews</i></span></a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
