@@ -1,8 +1,21 @@
-# React + Vite
+# 📰 Mews – Real-Time News Aggregator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### visit our site: [mews](https://mews-newsapp.netlify.app/)
 
-Currently, two official plugins are available:
+Stay informed with **Mews**, a sleek and responsive **news aggregation platform** built using **React.js**, **Bootstrap**, and dynamic **API integration**. Get the latest headlines at your fingertips — sorted by category and updated in real time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Key Features
+- 🗞️ **Live News Feed** – Displays up-to-date headlines using third-party news APIs.
+- 🧠 **Category Filtering** – Filter articles by category like **Sports**, **Health**, **Business**, and more.
+- 📱 **Fully Responsive UI** – Designed with Bootstrap for seamless viewing across devices.
+- ⚛️ **Modern Frontend** – Built entirely with React for fast rendering and smooth navigation.
+
+## 🛠️ Tech Stack
+- **React.js**
+- **Bootstrap**
+- **News API Integration**
+
+
+---
+
+> *“Fast. Informative. Simple. Mews delivers the headlines that matter — beautifully.”* 🌐
