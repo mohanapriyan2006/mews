@@ -1,6 +1,6 @@
 # 📰 Mews – Real-Time News Aggregator
 
-#### visit our site: [mews](https://mews-newsapp.netlify.app/)
+## 🔗 visit our site: [mews](https://mews-newsapp.netlify.app/)
 
 Stay informed with **Mews**, a sleek and responsive **news aggregation platform** built using **React.js**, **Bootstrap**, and dynamic **API integration**. Get the latest headlines at your fingertips — sorted by category and updated in real time.
 
@@ -15,6 +15,8 @@ Stay informed with **Mews**, a sleek and responsive **news aggregation platform*
 - **Bootstrap**
 - **News API Integration**
 
+## 💻 Preview
+![Preview](./screenshots/preview.png)
 
 ---
 
