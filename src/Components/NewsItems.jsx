@@ -8,7 +8,7 @@ const NewsItems = ({title,description,src,url}) => {
         <div className="card-body">
           <h5 className="card-title">{title.slice(0,50)}</h5>
           <p className="card-text">{description?description.slice(0,90):"‘Fartleks’ are an effective way to add intensity to activities, which a growing body of science indicates can make your workouts more beneficial."}</p>
-          <a href={url} target='new' className="btn btn-primary">Read more</a>
+          <a href={url} className="btn btn-primary">Read more</a>
         </div>
       </div>
     
